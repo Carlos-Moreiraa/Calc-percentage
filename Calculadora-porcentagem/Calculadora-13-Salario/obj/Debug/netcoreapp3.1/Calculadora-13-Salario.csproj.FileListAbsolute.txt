@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\bin\Debug\netcoreapp3.1\Calculadora-13-Salario.exe
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\bin\Debug\netcoreapp3.1\Calculadora-13-Salario.deps.json
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\bin\Debug\netcoreapp3.1\Calculadora-13-Salario.runtimeconfig.json
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\bin\Debug\netcoreapp3.1\Calculadora-13-Salario.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\bin\Debug\netcoreapp3.1\Calculadora-13-Salario.dll
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\bin\Debug\netcoreapp3.1\Calculadora-13-Salario.pdb
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\obj\Debug\netcoreapp3.1\Calculadora-13-Salario.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\obj\Debug\netcoreapp3.1\Calculadora-13-Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\obj\Debug\netcoreapp3.1\Calculadora-13-Salario.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\obj\Debug\netcoreapp3.1\Calculadora-13-Salario.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\obj\Debug\netcoreapp3.1\Calculadora-13-Salario.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\obj\Debug\netcoreapp3.1\Calculadora-13-Salario.dll
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\obj\Debug\netcoreapp3.1\Calculadora-13-Salario.pdb
+C:\Users\carlo\source\repos\Calculadora-13-Salario\Calculadora-13-Salario\obj\Debug\netcoreapp3.1\Calculadora-13-Salario.genruntimeconfig.cache
